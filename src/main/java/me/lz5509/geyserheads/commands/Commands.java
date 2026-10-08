@@ -9,8 +9,8 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-import com.github.drakescraft_labs.slimefun4.api.items.ItemGroup;
-import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import me.arcaniax.hdb.api.HeadDatabaseAPI;
 import me.lz5509.geyserheads.utils.Heads;
 import me.lz5509.geyserheads.utils.Heads.HeadType;
